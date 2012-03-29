@@ -24,8 +24,20 @@ instructions and supervision required.
 Professional Experience
 -----------------------
 
-2004-now
+2011-now
 ++++++++
+
+`Intel Corporation`_
+
+Senior Linux Software Engineer
+
+  * Developed tools for package building in Python
+  * Maintained Jenkins and OBS build systems
+  * Implemented support for patch series for Patchwork
+  * Configured and administrated build farm
+
+2004-2011
++++++++++
 
 `Nokia Corporation`_
 
@@ -89,6 +101,7 @@ Software developer
   * ApplianceWare: integrated ADS(Advanced Directory Services)
   * ApplianceWare: packaged and maintained Linux kernel
 
+.. _`Intel Corporation`: http://www.intel.com
 .. _`Nokia Corporation`: http://www.nokia.com
 .. _`Emdebian project`: http://emdebian.org
 .. _Maemo: http://www.maemo.org
@@ -125,6 +138,6 @@ Languages
 
 ----
 
-:Last updated: March 20, 2011
+:Last updated: March 29, 2012
 :Original document: http://www.bartosh.org/cv.html
 :Pdf version: http://www.bartosh.org/cv.pdf
