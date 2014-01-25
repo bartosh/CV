@@ -31,11 +31,10 @@ Professional Experience
 
 Senior Linux Software Engineer
 
-  * Developed tools for package building in Python
-  * Maintained Jenkins and OBS build systems
-  * Implemented support for patch series for Patchwork
+  * Developed tools for package building in Python_
+  * Maintained Jenkins_ and OBS_ setups
   * Configured and administrated build farm
-  * Developed continuous integration system based on OBS, Jenkins and Gerrit for Tizen Linux Distro (tizen.org)
+  * Developed continuous integration system based on OBS_, Jenkins_ and Gerrit_ for Tizen_ Linux Distribution
 
 2004-2011
 +++++++++
@@ -102,6 +101,10 @@ Software developer
   * ApplianceWare: integrated ADS(Advanced Directory Services)
   * ApplianceWare: packaged and maintained Linux kernel
 
+.. _Tizen: https://www.tizen.org/
+.. _OBS: http://openbuildservice.org/
+.. _Gerrit: http://code.google.com/p/gerrit/
+.. _Jenkins: http://jenkins-ci.org/
 .. _`Intel Corporation`: http://www.intel.com
 .. _`Nokia Corporation`: http://www.nokia.com
 .. _`Emdebian project`: http://emdebian.org
@@ -117,17 +120,29 @@ Software developer
 .. _FreeBSD: http://www.freebsd.org/
 .. _scratchbox: http://scratchbox.org/
 .. _`Software development company "SaM Solutions"`: http://www.sam-solutions.com/
+.. _Git: http://git-scm.com/
+.. _Emacs: http://www.gnu.org/software/emacs/
+.. _Pylint: http://www.pylint.org/
+.. _Python: http://www.python.org/
+.. _IPython: http://ipython.org/
+.. _Nose: https://nose.readthedocs.org/en/latest/
+.. _Ansible: http://www.ansibleworks.com/
+.. _OpenSSH: http://openssh.org/
+.. _Vim: http://www.vim.org/
 
 Education
 ---------
-:1982-1988: Master's Degree in Electrical Engineering in Saint Petersburg State University of Aerospace Instrumentation, Russia
+:1982-1988: Master's Degree in Electrical Engineering. Saint Petersburg State University of Aerospace Instrumentation, Russia
 
 Technical skills
 ----------------
 
 :Operation Systems: Unix/Linux
-:Programming languages: **strong knowledge of Python**, moderate: C, Shell, some: C++, Ruby, Erlang
-:Tools: emacs, git, Gerrit, shell, pylint, nose
+:Programming languages:
+    * **strong knowledge of Python**
+    * moderate: C, Shell
+    * some: C++, Java, Perl, Erlang
+:Tools: Emacs_, Git_, Gerrit_, Python_, IPython_, Pylint_, Nose_, Ansible_, OpenSSH_
 
 Languages
 ---------
