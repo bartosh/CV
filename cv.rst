@@ -9,7 +9,7 @@ Eduard Bartosh
 Software Engineer
 =================
 
-Areas of expertise: Python development, Linux build systems, software
+Areas of expertise: Python programming, Linux build systems, software
 integration, strong general IT and Unix expertise. Work well
 independently and within a team. Self-starter with minimal amount of
 instructions and supervision required.
