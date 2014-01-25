@@ -137,12 +137,14 @@ Education
 Technical skills
 ----------------
 
-:Operation Systems: Unix/Linux
-:Programming languages:
+Operation Systems
+    * Unix/Linux
+Programming languages
     * **strong knowledge of Python**
     * moderate: C, Shell
     * some: C++, Java, Perl, Erlang
-:Tools: Emacs_, Git_, Gerrit_, Python_, IPython_, Pylint_, Nose_, Ansible_, OpenSSH_
+Tools
+    * Emacs_, Git_, Gerrit_, Python_, IPython_, Pylint_, Nose_, Ansible_, OpenSSH_
 
 Languages
 ---------
