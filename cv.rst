@@ -157,6 +157,6 @@ Languages
 
 :Source: https://github.com/bartosh/CV
 
-:Pdf: http://www.bartosh.org/cv.pdf
+:Pdf: http://bartosh.org/cv.pdf
 
 :Last updated: Jan 26, 2014
