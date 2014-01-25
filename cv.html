@@ -3,13 +3,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="generator" content="Docutils 0.7: http://docutils.sourceforge.net/" />
+<meta name="generator" content="Docutils 0.10: http://docutils.sourceforge.net/" />
 <title></title>
 <style type="text/css">
 
 /*
 :Author: David Goodger (goodger@python.org)
-:Id: $Id: html4css1.css 6253 2010-03-02 00:24:53Z milde $
+:Id: $Id: html4css1.css 7514 2012-09-14 14:27:12Z milde $
 :Copyright: This stylesheet has been placed in the public domain.
 
 Default cascading style sheet for the HTML output of Docutils.
@@ -47,6 +47,10 @@ blockquote.epigraph {
 dl.docutils dd {
   margin-bottom: 0.5em }
 
+object[type="image/svg+xml"], object[type="application/x-shockwave-flash"] {
+  overflow: hidden;
+}
+
 /* Uncomment (and remove this text!) to get bold-faced definition list terms
 dl.docutils dt {
   font-weight: bold }
@@ -73,7 +77,7 @@ div.tip p.admonition-title {
 
 div.attention p.admonition-title, div.caution p.admonition-title,
 div.danger p.admonition-title, div.error p.admonition-title,
-div.warning p.admonition-title {
+div.warning p.admonition-title, .code .error {
   color: red ;
   font-weight: bold ;
   font-family: sans-serif }
@@ -185,7 +189,7 @@ img.align-center, .figure.align-center, object.align-center {
 
 /* reset inner alignment in figures */
 div.align-right {
-  text-align: left }
+  text-align: inherit }
 
 /* div.align-center * { */
 /*   text-align: left } */
@@ -245,9 +249,18 @@ pre.address {
   margin-top: 0 ;
   font: inherit }
 
-pre.literal-block, pre.doctest-block {
+pre.literal-block, pre.doctest-block, pre.math, pre.code {
   margin-left: 2em ;
   margin-right: 2em }
+
+pre.code .ln { color: grey; } /* line numbers */
+pre.code, code { background-color: #eeeeee }
+pre.code .comment, code .comment { color: #5C6576 }
+pre.code .keyword, code .keyword { color: #3B0D06; font-weight: bold }
+pre.code .literal.string, code .literal.string { color: #0C5404 }
+pre.code .name.builtin, code .name.builtin { color: #352B84 }
+pre.code .deleted, code .deleted { background-color: #DEB0A1}
+pre.code .inserted, code .inserted { background-color: #A3D289}
 
 span.classifier {
   font-family: sans-serif ;
@@ -332,7 +345,7 @@ instructions and supervision required.</p>
 <tbody valign="top">
 <tr class="field"><th class="field-name">Address:</th><td class="field-body">Meri-Rastilan tie 17G 62 00980 Helsinki, Finland</td>
 </tr>
-<tr class="field"><th class="field-name">Phone:</th><td class="field-body">+358 50 4868859</td>
+<tr class="field"><th class="field-name">Phone:</th><td class="field-body">+358 50 4868859:</td>
 </tr>
 <tr class="field"><th class="field-name">Email:</th><td class="field-body"><a class="reference external" href="mailto:bartosh&#64;gmail.com">bartosh&#64;gmail.com</a></td>
 </tr>
@@ -345,7 +358,21 @@ instructions and supervision required.</p>
 <div class="section" id="professional-experience">
 <h2>Professional Experience</h2>
 <div class="section" id="now">
-<h3>2004-now</h3>
+<h3>2011-now</h3>
+<p><a class="reference external" href="http://www.intel.com">Intel Corporation</a></p>
+<p>Senior Linux Software Engineer</p>
+<blockquote>
+<ul class="simple">
+<li>Developed tools for package building in Python</li>
+<li>Maintained Jenkins and OBS build systems</li>
+<li>Implemented support for patch series for Patchwork</li>
+<li>Configured and administrated build farm</li>
+<li>Developed continuous integration system based on OBS, Jenkins and Gerrit for Tizen Linux Distro (tizen.org)</li>
+</ul>
+</blockquote>
+</div>
+<div class="section" id="id1">
+<h3>2004-2011</h3>
 <p><a class="reference external" href="http://www.nokia.com">Nokia Corporation</a></p>
 <p>Senior Design Engineer</p>
 <blockquote>
@@ -376,7 +403,7 @@ modified tools from Debian</li>
 </ul>
 </blockquote>
 </div>
-<div class="section" id="id1">
+<div class="section" id="id2">
 <h3>2003-2004</h3>
 <p><a class="reference external" href="http://www.altlinux.com/">Alt Linux team</a></p>
 <p>Package maintainer, member of Alt Linux kernel committee</p>
@@ -392,7 +419,7 @@ other packages for Alt Linux</li>
 </ul>
 </blockquote>
 </div>
-<div class="section" id="id2">
+<div class="section" id="id3">
 <h3>2001-2004</h3>
 <p><a class="reference external" href="http://www.sam-solutions.com/">Software development company &quot;SaM Solutions&quot;</a></p>
 <p>Software developer</p>
@@ -432,10 +459,10 @@ create XFS volumes &gt;1Tb on the EVMS devices)</li>
 <col class="field-body" />
 <tbody valign="top">
 <tr class="field"><th class="field-name" colspan="2">Operation Systems:</th></tr>
-<tr><td>&nbsp;</td><td class="field-body">Unix/Linux</td>
+<tr class="field"><td>&nbsp;</td><td class="field-body">Unix/Linux</td>
 </tr>
 <tr class="field"><th class="field-name" colspan="2">Programming languages:</th></tr>
-<tr><td>&nbsp;</td><td class="field-body"><strong>strong knowledge of Python</strong>, moderate: C, Shell, some: C++, Ruby, Erlang</td>
+<tr class="field"><td>&nbsp;</td><td class="field-body"><strong>strong knowledge of Python</strong>, moderate: C, Shell, some: C++, Ruby, Erlang</td>
 </tr>
 <tr class="field"><th class="field-name">VCS tools:</th><td class="field-body">git, svn, cvs, mercurial, bazaar</td>
 </tr>
@@ -465,10 +492,10 @@ create XFS volumes &gt;1Tb on the EVMS devices)</li>
 <col class="field-name" />
 <col class="field-body" />
 <tbody valign="top">
-<tr class="field"><th class="field-name">Last updated:</th><td class="field-body">March 20, 2011</td>
+<tr class="field"><th class="field-name">Last updated:</th><td class="field-body">Jan 26, 2014</td>
 </tr>
 <tr class="field"><th class="field-name" colspan="2">Original document:</th></tr>
-<tr><td>&nbsp;</td><td class="field-body"><a class="reference external" href="http://www.bartosh.org/cv.html">http://www.bartosh.org/cv.html</a></td>
+<tr class="field"><td>&nbsp;</td><td class="field-body"><a class="reference external" href="http://www.bartosh.org/cv.html">http://www.bartosh.org/cv.html</a></td>
 </tr>
 <tr class="field"><th class="field-name">Pdf version:</th><td class="field-body"><a class="reference external" href="http://www.bartosh.org/cv.pdf">http://www.bartosh.org/cv.pdf</a></td>
 </tr>

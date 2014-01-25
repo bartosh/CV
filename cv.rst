@@ -15,7 +15,7 @@ independently and within a team. Self-starter with minimal amount of
 instructions and supervision required.
 
 :Address: Meri-Rastilan tie 17G 62 00980 Helsinki, Finland
-:Phone: +358 50 4868859
+:Phone: +358 50 4868859:
 :Email: bartosh@gmail.com
 :Date of Birth: July 2, 1965
 :Marital Status: married
@@ -35,6 +35,7 @@ Senior Linux Software Engineer
   * Maintained Jenkins and OBS build systems
   * Implemented support for patch series for Patchwork
   * Configured and administrated build farm
+  * Developed continuous integration system based on OBS, Jenkins and Gerrit for Tizen Linux Distro (tizen.org)
 
 2004-2011
 +++++++++
@@ -138,6 +139,6 @@ Languages
 
 ----
 
-:Last updated: March 29, 2012
+:Last updated: Jan 26, 2014
 :Original document: http://www.bartosh.org/cv.html
 :Pdf version: http://www.bartosh.org/cv.pdf
