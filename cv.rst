@@ -127,15 +127,14 @@ Technical skills
 
 :Operation Systems: Unix/Linux
 :Programming languages: **strong knowledge of Python**, moderate: C, Shell, some: C++, Ruby, Erlang
-:VCS tools: git, svn, cvs, mercurial, bazaar
-:Databases: MySQL, PostgreSQL, DB2
-:Internet:  TCP/IP, HTML, XML
+:Tools: emacs, git, Gerrit, shell, pylint, nose
 
 Languages
 ---------
 :Russian: Native
 :English: Good
 :Finnish: Basic
+:Spanish: Beginner
 
 ----
 
