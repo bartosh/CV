@@ -18,7 +18,6 @@ instructions and supervision required.
 :Phone: +358 50 4868859:
 :Email: bartosh@gmail.com
 :Date of Birth: July 2, 1965
-:Marital Status: married
 
 
 Professional Experience
@@ -148,10 +147,8 @@ Tools
 
 Languages
 ---------
-:Russian: Native
+:Russian: Mother tongue
 :English: Good
-:Finnish: Basic
-:Spanish: Beginner
 
 ----
 
