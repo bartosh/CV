@@ -30,9 +30,16 @@ Professional Experience
 
 Senior Linux Software Engineer
 
+`Yocto`_
+
+  * Participated in Bitbake_, OpenEmbedded_ and Toaster_ development
+  * Maintained OpenEmbedded_ image creator tool Wic_
+
+`Tizen`_
+
   * Developed tools for package building in Python_
   * Maintained Jenkins_ and OBS_ setups
-  * Configured and administrated build farm
+  * Configured and administrated build farm on tizen.org
   * Developed continuous integration system based on OBS_, Jenkins_ and Gerrit_ for Tizen_ Linux Distribution
 
 2004-2011
@@ -41,6 +48,8 @@ Senior Linux Software Engineer
 `Nokia Corporation`_
 
 Senior Design Engineer
+
+Tools Developer, System administrator, Release&Integration engineer
 
   * Designed, developed and maintained build&intergation system for
     Nokia linux-based mobile  devices
@@ -100,6 +109,11 @@ Software developer
   * ApplianceWare: integrated ADS(Advanced Directory Services)
   * ApplianceWare: packaged and maintained Linux kernel
 
+.. _Wic: http://www.yoctoproject.org/docs/current/dev-manual/dev-manual.html#creating-partitioned-images
+.. _OpenEmbedded: http://www.openembedded.org/
+.. _Toaster: https://www.yoctoproject.org/tools-resources/projects/toaster
+.. _Bitbake: https://www.yoctoproject.org/tools-resources/projects/bitbake
+.. _Yocto: https://www.yoctoproject.org/
 .. _Tizen: https://www.tizen.org/
 .. _OBS: http://openbuildservice.org/
 .. _Gerrit: http://code.google.com/p/gerrit/
@@ -143,7 +157,7 @@ Programming languages
     * moderate: C, Shell
     * some: C++, Java, Perl, Erlang
 Tools
-    * Emacs_, Git_, Gerrit_, Python_, IPython_, Pylint_, Nose_, Ansible_, OpenSSH_
+    * Python_, Emacs_, Git_, Gerrit_, Jenkins_, Pylint_, Nose_, Ansible_
 
 Languages
 ---------
