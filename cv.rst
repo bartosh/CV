@@ -15,7 +15,7 @@ independently and within a team. Self-starter with minimal amount of
 instructions and supervision required.
 
 :Address: Meri-Rastilan tie 17G 62 00980 Helsinki, Finland
-:Phone: +358 50 4868859:
+:Phone: +358 50 4868859
 :Email: bartosh@gmail.com
 :Date of Birth: July 2, 1965
 
@@ -29,6 +29,11 @@ Professional Experience
 `Intel Corporation`_
 
 Senior Linux Software Engineer
+
+`Kubernetes`_
+
+  * Developed `Intel FPGA Device Plugin`_ for `Kubernetes`_
+  * Participated in `Kubeadm`_ development
 
 `Yocto`_
 
@@ -142,6 +147,10 @@ Software developer
 .. _Ansible: http://www.ansibleworks.com/
 .. _OpenSSH: http://openssh.org/
 .. _Vim: http://www.vim.org/
+.. _Kubernetes: https://kubernetes.io
+.. _Kubeadm: https://github.com/kubernetes/kubeadm
+.. _`Intel FPGA Device Plugin`: https://github.com/intel/intel-device-plugins-for-kubernetes
+.. _VSCode: https://github.com/Microsoft/vscode
 
 Education
 ---------
@@ -153,11 +162,12 @@ Technical skills
 Operation Systems
     * Unix/Linux
 Programming languages
-    * **strong knowledge of Python**
+    * **excellent knowledge of Python**
+    * **good knowledge of Go**
     * moderate: C, Shell
     * some: C++, Java, Perl, Erlang
 Tools
-    * Python_, Emacs_, Git_, Gerrit_, Jenkins_, Pylint_, Nose_, Ansible_
+    * Emacs_, VSCode_, Git_, Gerrit_, Jenkins_, Pylint_, Nose_, Ansible_
 
 Languages
 ---------
@@ -168,6 +178,4 @@ Languages
 
 :Source: https://github.com/bartosh/CV
 
-:Pdf: http://bartosh.org/cv.pdf
-
-:Last updated: Jan 26, 2014
+:Last updated: Mar 7, 2019
