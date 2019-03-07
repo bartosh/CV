@@ -173,6 +173,8 @@ Languages
 ---------
 :Russian: Mother tongue
 :English: Good
+:Spanish: Basic
+:Finnish: Basic
 
 ----
 
