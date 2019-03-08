@@ -9,8 +9,8 @@ Eduard Bartosh
 Software Engineer
 =================
 
-Areas of expertise: Python programming, Cloud computing, Kubernetes, software
-integration, strong general IT and Unix expertise. Work well
+Areas of expertise: Python, Golang, Cloud computing, Kubernetes, software
+integration. Strong general IT and Unix expertise. Work well
 independently and within a team. Self-starter with minimal amount of
 instructions and supervision required.
 
@@ -32,8 +32,10 @@ Senior Linux Software Engineer
 
 `Kubernetes`_
 
-  * Developed `Intel FPGA Device Plugin`_ for `Kubernetes`_
-  * Participated in `Kubeadm`_ development
+  * One of the top commiters to `Kubernetes`_ core in `Intel`_
+  * Developing `CSI`_ driver for `Kubernetes`_
+  * Developed and maintained `Intel FPGA Device Plugin`_ for `Kubernetes`_
+  * Actively contributing to `Kubeadm`_ development
 
 `Yocto`_
 
@@ -151,6 +153,8 @@ Software developer
 .. _Kubeadm: https://github.com/kubernetes/kubeadm
 .. _`Intel FPGA Device Plugin`: https://github.com/intel/intel-device-plugins-for-kubernetes
 .. _VSCode: https://github.com/Microsoft/vscode
+.. _CSI: https://github.com/container-storage-interface/spec/blob/master/spec.md
+.. _Intel: http://www.intel.com
 
 Education
 ---------
@@ -167,7 +171,7 @@ Programming languages
     * moderate: C, Shell
     * some: C++, Java, Perl, Erlang
 Tools
-    * Emacs_, VSCode_, Git_, Gerrit_, Jenkins_, Pylint_, Nose_, Ansible_
+    * Emacs_, VSCode_, Git_, Gerrit_, Jenkins_, Ansible_
 
 Languages
 ---------
@@ -180,4 +184,4 @@ Languages
 
 :Source: https://github.com/bartosh/CV
 
-:Last updated: Mar 7, 2019
+:Last updated: Mar 8, 2019
